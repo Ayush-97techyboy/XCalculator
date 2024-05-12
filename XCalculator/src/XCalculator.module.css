@@ -1,0 +1,44 @@
+.inp {
+    padding: 5px;
+    margin: 8px;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    background-color: white !important;
+    font-weight: bold;
+    font-size: 1.0rem;
+    /* width: 100%; */
+}
+
+.res {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: bolder;
+}
+
+.numPad {
+  padding: 5px;
+}
+
+.btn {
+  margin: 8px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn:focus {
+  outline:invert;
+}
+
+.btn:hover {
+  background-color: #17a39f;
+}
+
+.btn:active {
+  background-color: #a61c58;
+}
+
+.oprtal {
+    margin: 8px;
+}
